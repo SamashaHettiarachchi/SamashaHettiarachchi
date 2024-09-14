@@ -11,14 +11,14 @@
 
 
 <h1>Hi ,👋I'm Samasha Hettiarachchi</h1>h1>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--computer-online-internet-technology-job-workshop-pack-professionals-animations-5540750.mp4" width = 250px></picture>
 <h3 align="center">Student at University of Moratuwa</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samasha hettiarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samasha hettiarachchi" height="30" width="40" /></a>
 <a href="https://fb.com/samasha hettiarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samasha hettiarachchi" height="30" width="40" /></a>
-</p>
+</p>ue
 
 
 
