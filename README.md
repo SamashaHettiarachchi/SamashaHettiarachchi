@@ -1,9 +1,9 @@
 
 [![](https://github.com/walleeva2018/walleeva2018/blob/main/a%20(2)%20(1).gif?raw=true)]<!-- If you want the template for my gif, email me! -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rafi!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
 
-<img src="https://profile-counter.glitch.me/walleeva2018/count.svg">
+
+
 
 [![GitHub followers](https://img.shields.io/github/followers/walleeva2018.svg?style=social&label=Followers)](https://github.com/walleeva2018?tab=followers)
 
