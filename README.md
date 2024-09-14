@@ -1,3 +1,6 @@
+<img src="https://www.clipartmax.com/png/middle/283-2835139_clipart-girl-wearing-pink-girl-emoji-with-glasses.png">
+
+
 <h1>Hi ,👋I'm Samasha Hettiarachchi</h1>h1>
 <h3 align="center">Student at University of Moratuwa</h3>
 
