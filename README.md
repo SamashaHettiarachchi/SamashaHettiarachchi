@@ -26,7 +26,7 @@
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamashaHettiarachchi&count_private=true&include_all_commits=true&theme=radical)<br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamashaHettiarachchi&theme=radical&hide_border=true"/><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count_private=true&theme=radical&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count_private=true&theme=radical&card_width=445) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi&repo=portfolio1&theme=radical)](https://github.com/SamashaHettiarachchi)
 
 
