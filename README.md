@@ -26,7 +26,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamashaHettiarachchi&count_private=true&include_all_commits=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count_private=true&theme=radical&card_width=445)<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi)](https://github.com/SamashaHettiarachchi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi&repo=portfolio1&theme=radical)](https://github.com/SamashaHettiarachchi)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
