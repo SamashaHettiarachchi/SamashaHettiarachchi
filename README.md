@@ -18,10 +18,13 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
--✨ Student at university of Moratuwa
+
+- ✨ Student at university of Moratuwa.
 <h4>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</h3>
 <h4> 💻 Visit my [Portfolio](https://samashahettiarachchi.github.io/portfolio1/) for more details about me.
 </h4>
+- 🌻 I consider myself a person who is **fast to learn, flexible, self-initiated and easy to adapt to any situation**.
+```bash
 <br><br><br><br><br><br><br>
 
 
