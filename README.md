@@ -18,10 +18,10 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-<h3>- ✨ Student at university of Moratuwa:)</h3>
-<h3>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</h3>
-<h3>- 💻 Visit my [Portfolio](https://samashahettiarachchi.github.io/portfolio1/) for more details about me.
-</h3>
+<h4>- ✨ Student at university of Moratuwa</h4>
+<h4>🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.</h3>
+<h4> 💻 Visit my [Portfolio](https://samashahettiarachchi.github.io/portfolio1/) for more details about me.
+</h4>
 
 
 
