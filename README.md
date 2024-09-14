@@ -1,4 +1,4 @@
-  ################### Hi ,👋I'm Samasha Hettiarachchi
+  ##Hi ,👋I'm Samasha Hettiarachchi
 <h3 align="center">Student at University of Moratuwa</h3>
 
 <h3 align="left">Connect with me:</h3>
