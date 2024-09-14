@@ -15,7 +15,9 @@
 <div id="header" align="center">
   <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 </div>
-<h3 align="center">Student at University of Moratuwa</h3>
+- ✨ Student at university of Moratuwa:)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💻 Visit my [Portfolio](https://samashahettiarachchi.github.io/portfolio1/) for more details about me.
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
