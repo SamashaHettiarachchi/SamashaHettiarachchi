@@ -1,21 +1,4 @@
 
-[![](https://github.com/walleeva2018/walleeva2018/blob/main/a%20(2)%20(1).gif?raw=true)]<!-- If you want the template for my gif, email me! -->
-
-
-
-
-
-[![GitHub followers](https://img.shields.io/github/followers/walleeva2018.svg?style=social&label=Followers)](https://github.com/walleeva2018?tab=followers)
-
-### Here's my github stats:
-
-
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-
-
-
-
-
 
 
 
