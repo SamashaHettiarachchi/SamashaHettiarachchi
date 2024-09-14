@@ -10,10 +10,7 @@
 ### Here's my github stats:
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walleeva2018&theme=radical)](https://git.io/streak-stats) 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=walleeva2018&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-[![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
