@@ -11,7 +11,7 @@
 
 
 <h1>Hi ,👋I'm Samasha Hettiarachchi</h1>h1>
-<picture> <img align="right" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animation-download-in-lottie-json-gif-static-svg-file-formats--computer-online-internet-technology-job-workshop-pack-professionals-animations-5540750.mp4" width = 250px></picture>
+<img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 <h3 align="center">Student at University of Moratuwa</h3>
 
 <h3 align="left">Connect with me:</h3>
