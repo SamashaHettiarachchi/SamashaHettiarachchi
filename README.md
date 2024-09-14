@@ -25,8 +25,7 @@
 - 🌻 I consider myself a person who is **fast to learn, flexible, self-initiated and easy to adapt to any situation**.
 
 <br><br><br><br><br><br><br>
-
-
+ 
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
