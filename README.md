@@ -23,11 +23,10 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💻 Visit my [Portfolio](https://samashahettiarachchi.github.io/portfolio1/) for more details about me.
 - 🌻 I consider myself a person who is **fast to learn, flexible, self-initiated and easy to adapt to any situation**.
-
+<strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamashaHettiarachchi&count_private=true&include_all_commits=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count_private=true&theme=radical&card_width=445)<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi&repo=portfolio1&theme=radical)]
-(https://github.com/SamashaHettiarachchi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi&repo=portfolio1&theme=radical.(https://github.com/SamashaHettiarachchi)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamashaHettiarachchi&theme=radical&hide_border=true"/><br><br>
 
 <h2 align="left">Connect with me:</h2>
