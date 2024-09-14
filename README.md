@@ -24,7 +24,7 @@
 - 💻 Visit my [Portfolio](https://samashahettiarachchi.github.io/portfolio1/) for more details about me.
 - 🌻 I consider myself a person who is **fast to learn, flexible, self-initiated and easy to adapt to any situation**.
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchiicons=true&theme=dark)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsky1t&show_icons=true&theme=dark)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
