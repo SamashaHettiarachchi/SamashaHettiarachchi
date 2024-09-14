@@ -25,6 +25,7 @@
 - 🌻 I consider myself a person who is **fast to learn, flexible, self-initiated and easy to adapt to any situation**.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamashaHettiarachchi&count_private=true&include_all_commits=true&theme=radical)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
