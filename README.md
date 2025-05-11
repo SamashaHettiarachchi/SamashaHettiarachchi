@@ -19,28 +19,27 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamashaHettiarachchi&count_private=true&include_all_commits=true&theme=radical&v=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamashaHettiarachchi&count_private=true&include_all_commits=true&theme=radical&v=2)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamashaHettiarachchi&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamashaHettiarachchi&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count=10&layout=compact&theme=radical&card_width=445&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count=10&layout=compact&theme=radical&card_width=445&v=2)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi&repo=portfolio1&theme=radical&v=1)](https://github.com/SamashaHettiarachchi/portfolio1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi&repo=portfolio1&theme=radical&v=2)](https://github.com/SamashaHettiarachchi/portfolio1)
 
 ---
 
 ## 🌐 Connect with me
 
-<!-- 🔧 Replace these URLs with your actual profile links -->
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-USERNAME-HERE" target="_blank">
+  <a href="https://linkedin.com/in/samashahettiarachchi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
-  <a href="https://facebook.com/YOUR-USERNAME-HERE" target="_blank">
+  <a href="https://facebook.com/samashahettiarachchi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" />
   </a>
 </p>
