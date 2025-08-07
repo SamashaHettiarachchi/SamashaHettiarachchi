@@ -12,7 +12,7 @@
 
 - 🎓 Student at University of Moratuwa  
 - 🌱 I’m currently learning many things – every day is a learning opportunity  
-- 💻 Explore my [Portfolio](https://samashahettiarachchi.github.io/portfolio1/)  
+- 💻 Explore my [Portfolio](https://samashahettiarachchi.vercel.app/)  
 - 🌻 I’m fast-learning, flexible, self-driven, and adaptable  
 
 ---
