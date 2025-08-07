@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamashaHettiarachchi&langs_count=10&layout=compact&theme=radical&card_width=445&v=2)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamashaHettiarachchi&repo=portfolio1&theme=radical&v=2)](https://samashahettiarachchi.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/SamashaHettiarachchi/my-app-Porfolio)](https://samashahettiarachchi.vercel.app/)
 
 ---
 
