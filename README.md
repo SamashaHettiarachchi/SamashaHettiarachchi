@@ -42,6 +42,9 @@
   <a href="https://facebook.com/samashahettiarachchi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" />
   </a>
+  <a href="https://medium.com/@samashahettiarachchi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="50" />
+  </a>
 </p>
 
 ---
